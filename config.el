@@ -39,6 +39,7 @@
     eaf-vue-demo
     eaf-pdf-viewer
     eaf-markdown-previewer
+    eaf-mermaid
     eaf-camera)
   "The applications loaded from EAF package"
   '(set
@@ -60,5 +61,6 @@
     (const eaf-vue-demo)
     (const eaf-pdf-viewer)
     (const eaf-markdown-previewer)
-    (const eaf-camera))
+    (const eaf-camera)
+    (const eaf-mermaid))
   'eaf)
